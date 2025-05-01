@@ -112,6 +112,7 @@
 @media (min-width: 768px) {
     .container {
       flex-direction: row;
+      align-items: stretch;
     }
 
     .product-info {
@@ -123,5 +124,6 @@
     .image picture img {
       border-radius: 20px 0 0 20px;
       object-fit: cover;
+      
     }
   }
