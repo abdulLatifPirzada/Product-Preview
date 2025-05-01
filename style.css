@@ -21,6 +21,7 @@
     align-items: center;
     min-height: 100vh;
     background-color: var(--cream);
+    padding: 30px;
   }
 
   .container {
